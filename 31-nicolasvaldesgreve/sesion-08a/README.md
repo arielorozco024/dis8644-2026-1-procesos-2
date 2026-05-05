@@ -46,8 +46,18 @@ Ahora, para poder crear algo dentro del archivo ``_sch``, tenemos que aprender l
 + Si presionas la tecla ``M`` luego de presionar un símbolo, lo podremos mover a nuestro gusto.
 + Para replicar un símbolo no es necesario volver a buscarlo en la lista de símbolos, sino que podemos hacer ``Ctrl + C`` y ``Ctrl + V``.
 + Si seleccionas un símbolo y presionas la tecla ``R``, éste rotará.
-+ Si seleccionas un símbolo y presionas la tecla ``X``, éste se refle respecto a su eje "X", y pasará lo mismo con la tecla ``Y`` respecto a su eje "Y".
++ Si seleccionas un símbolo y presionas la tecla ``X``, éste se refleja respecto a su eje "X", y pasará lo mismo con la tecla ``Y`` respecto a su eje "Y".
 
 Luego de aprender todo ésto, nos dieron tiempo para poder completar el esquemático completo del Atari Punk de manera independiente, el cual nos quedó así:
 
 ![Esquemático Atari Punk hecho junto a Bruno Ferrari](./imagenes/esquematico-ataripunk.png)
+
+Luego, para poder asociar huellas a los símbolos tenemos que hacer doble click sobre el símbolo lo cual nos mostrará las propiedades de éste. Una vez dentro de las propiedades nos enfocaremos en los libros que aparecen en la sección de ``Huella``, haremos click y nos mostrará una cantidad enorme de bibliotecas de huellas, por lo que aplicaremos los filtros de huella y buscaremos huellas THT que tengan las mismas medidas que los componentes que nosotros usaremos, por lo cual se nos recomendó andar con un pie de metro a mano. Una vez ya le asignemos una huella a cada símbolo, podemos hacer ``Ctrl + C`` y ``Ctrl + V`` para aplicar las mismas huellas a componentes que son lo mismo.
+
+Cuando ya tenemos todas las huellas, vamos a entrar al modo placa en donde al inicio se ve todo oscuro y vacío, pero cuando apretamos la opción ``Actualizar placa desde esquema (F8)`` se nos va a importar todo el esquema y se nos mostrará como una PCB solo si no hay ningún error dentro del esquemático, lo cual se ve así:
+
+![PCB en KiCad jiji](./imagenes/pcb-kicad.png)
+
+Para poder generar un borde a la placa, nos tenemos que ubicar en la capa ``Edge Cuts`` y dibujaremos el límite a nuestro gusto, que en éste caso lo hicimos con el tamaño de una tarjeta de presentación, lo cual quedó así:
+
+![Render de PCB en KiCad](./imagenes/render-pcb.png)
