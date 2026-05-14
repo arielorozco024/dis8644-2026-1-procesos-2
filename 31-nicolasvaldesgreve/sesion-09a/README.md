@@ -101,7 +101,7 @@ Para poder tener los vectores en ambos lados de la placa, ubiqué uno en la capa
 
 ![Dibujo en la parte frontal que no se ve jaja](./imagenes/frontal-no-se-ve.png)
 
-Como se puede ver el render 3D, en la parte frontal no se ve nada del vector que puse dentro del editor de placas en donde se ve así:
+Como se puede ver en el render 3D, en la parte frontal no se ve nada del vector que puse dentro del editor de placas en donde se ve así:
 
 ![Pistas frontales](./imagenes/pista-frontal.png)
 
