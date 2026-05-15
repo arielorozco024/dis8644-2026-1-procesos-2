@@ -42,3 +42,10 @@ La podemos usar para evitar el error de pin no conectado a la salida, debemos co
 ### Cambiar de cara los componentes
 
 Selecciono el componente y apreto "F"
+
+### Modelados 3d
+Seleccionas la huella del componente en el .pcb, presionar "e", ir a 3d models, ahí cargar los que se tengan descargados.
+
+![pantallazo](./imagenes/3d.png)
+
+Para descargar la placa completa con los modelos 3D, vamos a archivos, exportar y seleccionamos el de STEP/STL, etc.
