@@ -96,8 +96,32 @@ Dato: no son dibujos; son vectores, píxeles, gráficos (en DXF o SVG).
 Bloque de terminales o conector de tornillo, de tipo modular, con soporte de hasta 16 A con 300 Volts AC. Posee un tamaño mediano, además de una separación entre pines de 5 mm (0.2 pulgadas).Es compatible con protoboard.
 ![terminal](./imagenes/terminal.jpeg)
 
+___
+## Encargo 09a
 
+Me costó agarrarle el ritmo a los controles y al proceso de agregar símbolos, modificar sus valores y manejar las líneas. También me confundí bastante al momento de asignar las huellas, porque hay muchísimas opciones y todavía no sé bien cuál utilizar en cada caso, siento que debo ir aprendiendo esos nombres y formatos.
 
+Algo que olvidaba constantemente era apretar la tecla B para cerrar el plano de GND. También tuve dificultades con la gráfica, porque no entendí muy bien por qué se veía tan poco en la vista 3D.
+
+Aun así, en general sentí que anduve bastante bien. El primer circuito lo hice apoyándome en la grabación de la clase, pero el segundo pude hacerlo por mi cuenta, así que siento que avancé bastante.
+
+### Clock generator
+
+![clock](./imagenes/clock.png)
+![clock](./imagenes/clock1.png)
+![clock](./imagenes/clock2.png)
+![clock3](./imagenes/clock3.png)
+
+### MIX
+
+![mix](./imagenes/mix.png)
+![mix](./imagenes/mix1.png)
+![mix](./imagenes/mix2.png)
+![mix](./imagenes/mix3.png)
+
+### Capítulo 1 del libro Hacia una filosofía de la fotografía, de Vilém Flusser
+
+Encuentro bastante interesante el texto, aunque nunca he sido muy cercana a la filosofía, ya que suelo perderme entre sus divagaciones y su forma de narrar con palabras poco comunes. Aun así, me parece muy interesante el análisis que se hace sobre las fotografías y las imágenes, porque algo que normalmente damos por sentado puede tener un trasfondo tan profundo. También me llamó la atención la interpretación sobre lo que significa ver una imagen, qué es lo que observamos, en qué nos enfocamos y cómo se le otorga un significado. La relación que el autor menciona entre textos e imágenes también me pareció interesante, especialmente la idea de cómo una puede llevar a la otra y viceversa, sin embargo, también me resulta llamativo que existan situaciones en las que esta relación no aplica, como ocurre con las ecuaciones de la teoría de la relatividad, que son textos imposibles de imaginar visualmente.
 
 
 
