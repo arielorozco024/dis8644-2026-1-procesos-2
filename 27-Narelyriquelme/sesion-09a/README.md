@@ -30,12 +30,13 @@ Esta clase fue online y Missa nos explicó más a profundidad cómo crear la PCB
 ![Clock](./imagenes/esquematico-555.png)
 ![secuenciador](./imagenes/esquematico-4017.png)
 + Aqui junte los esquematicos en uno para poder hacer una sola placa
-![555y4017](./imagenes/)
+![555y4017](./imagenes/esquematico-juntos.png)
 ---
 + Segunda parte: Aquí muestro los resultados de la PCB terminada. Aquí logré hacer bien la placa, no tuve mayores complicaciones y la clase grabada me ayudó bastante para ir resolviendo dudas. Siento que es un poco difícil de entender al principio, ya que hay varias reglas y cosas que aún no entiendo bien, pero con práctica todo se logra. Al menos este primer ejercicio no lanzó ningún error.
-![PCB01](./imagenes/)
-![PCB02](./imagenes/)
-![PCB03GIF](./imagenes/)
+![PCB01](./imagenes/pcb01.png)
+![PCB02](./imagenes/pcb02.png)
+![PCB03GIF](./imagenes/gif-placa3d.gif)
+![Revision](./imagenes/)
 ### Encargo lectura de libro de Flusser, capítulo 1
 Lo que entendi de Flusser es que las fotos nos engañan porque parecen la realidad, pero no lo son. la realidad es que son imágenes creadas por la cámara, que ya tiene sus propias reglas. Cuando sacas una foto, crees que tú mandas, pero solo haces lo que la máquina te deja hacer. La cámara ya viene programada y nosotros solo somos como "operadores" de ese programa. Antes los dibujos los hacía el ojo humano, ahora las fotos las hacen fórmulas de científicos. Es peligroso porque nos creemos todo lo que vemos en una pantalla sin pensar quién lo armó y mas ahora si contamos con la inteligencia artificial que literal puede modificar cualquier imagen alterando la realidad. Al final, su filosofía es para que no seamos simples piezas de la tecnología.
 
