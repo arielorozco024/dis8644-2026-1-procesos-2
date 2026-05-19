@@ -38,3 +38,8 @@
 
 
 - CD4040, recibe un clock y por su salida sale la mitad del V que entra, por ejemlo solo deja pasar los pares 
+
+
+## chips para nuestro pliezo 
+- chip lm741, lm358, lm324
+- 
