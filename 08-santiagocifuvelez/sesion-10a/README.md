@@ -56,4 +56,14 @@ Cuando un archivo ya está creado y guardado, se abre desde la extensión:
 > *Entonces, primeramente, siempre asegurarnos de las medidas de nuestros componentes y ponerlos en coherencia con el que corresponda.*
 
 ## 3.	La pcb (nuestra placa real)
+
+**Primeramente, know your grids (grillas), vamos a usar 5mm para nuestras placas, ya que es un grosor perfecto.**
+![img2](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img2.png)
+
+ **Además, siempre se debe hacer los contornos de las placas, en la capa de edges.cuts:**
+![img3](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img3.png)
+
+**Listo, ahora que ya hicimos el contorno de nuestra placa, sigue definir los caminos de conexiones (las pistas):**
+![img4](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-10a/imagenes/img4.png)
+
 ## 4.	Encargo para la siguiente clase.
