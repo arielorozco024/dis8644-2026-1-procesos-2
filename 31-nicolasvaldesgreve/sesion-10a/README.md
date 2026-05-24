@@ -6,7 +6,7 @@ Durante la clase nos mencionaron que habría una charla llamada "Contra la medid
 
 Como la charla iba a ser dictada por personas británicas pensé que tendría problemas en entender lo que dirían ya que me cuesta un poco el entender inglés y más aún con el acento británico, pero cuando llegamos al auditorio y empezó la charla nos dijeron que habría una profesora que iría traduciendo lo que se iba hablando (al final la traducción fue hecha por múltiples profesores lo cual lo hizo más dinámico ya que se formaba como una conversación). Cuando partió la charla traté de hacer la mayor cantidad de apuntes por lo que escribí muy rápido y de manera extraña, por lo que ahora no entiendo mucho pero aquí dejo un punteo de lo que si logro entender:
 
-![Modelo de puntos rescatado de la página del CEINA](./imagenes/para-querer-no-medir.jpg)
+![Modelo de puntos rescatado de la página del CEINA](./imagenes/para-querer-no-medir.jpeg)
 
 ### Jim y Patrick
 
