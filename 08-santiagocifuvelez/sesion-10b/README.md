@@ -21,6 +21,8 @@ Veamos que tenemos para hoy:
 
 ***Un ejemplo sencillo, es el de un Bombillo; La electricidad es la energía que corre por todo el circuito y hace que exista esa luz que podemos ver, y la electrónica, es toda esa composición y creación de ese circuito para que la electricidad pueda pasar, incluso hasta el interruptor.***
 
+> https://www.aviationgroup.es/actualidad/diferencia-electricidad-electronica/
+
 ## 2.	¿Qué es fenomenología? 
 ## 3.	Trabajo en clase, proyecto para solemne 02. 
 ## 4.	Flusser, cap. 6, 7
