@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="15-catalinajeria/sesion-08a/imagenes/banana.gif" width="180">
+  <img src="15-catalinajeria/sesion-08a/imagenes/banana.gif" width="25">
 </p>
 
 <h1 align="center">🌸 Clase 08a — Primer acercamiento a KiCad 🌸</h1>
@@ -8,7 +8,6 @@
   <b>Bitácora de clase — Diseño de circuitos y placas PCB</b><br>
   En esta sesión comenzamos a trabajar con KiCad para pasar de un circuito esquemático a una placa física.
 </p>
----
 
 ## ✨ Resumen de la clase
 
