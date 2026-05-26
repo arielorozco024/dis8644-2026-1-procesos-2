@@ -35,7 +35,7 @@ Somos el oscilador 2!
 
 ### Post-clase
 
-Capítulo 2: La imagen técnica
+*Capítulo 2: La imagen técnica*
 
 Aquí Flusser nos explica la diferencia entre los tipos de imágenes: técnicas y tradicionales.
 
@@ -47,5 +47,12 @@ Gracias a esta reflexión pasamos a lo más importante que plantea Flusser en el
 
 Al leer este capitulo me acordaba siempre a como mi mamá siempre alega de que mucha gente en redes siempre sube fotos “pasándola bien” y despues tu les preguntas cómo la pasaron y dicen siempre que mal, que no les gusto y que preferían no haber ido, entonces ¿por qué deseas plasmar ante esta caja negra tu momento? es por esto que no debemos creer en lo que sube la gente, uno siempre piensa que comparte lo que nos gusta y nos hace feliz, pero en verdad no es así, es solo por aparentar. 
 
-Capitulo 3: los aparatos
+*Capítulo 3: los aparatos*
+
+En este capítulo Flusser nos menciona que son realmente las cámaras y cómo estas afectan nuestro pensar y crear.
+
+Las cámaras son un aparato programado que nos limita y guia a las personas ya que esta viene condicionado desde otro lugar—fábricas, químicos, etc— osea, una máquina creada por la ciencia y la tecnología que funciona mediante un programa, pero este tiene limitaciones, nunca vas a ser 100% libre usandola produciendo así en el receptor comportamientos, formas de pensar y ver. La cámara o aparato nunca será neutral. Siempre tendrá un sesgo. 
+
+Pensando en cómo funcionan y son las camara pienso mucho por ejemplo en los teléfonos que vienen desde asia ya que nos hacen creer ser una persona distinta ya que viene con un filtro determinado que ellos utilizan a partir de su forma de casa, esto lo podemos ver en los teléfonos samsung en sobre todo, ya que siempre te hace la cara mucho más alargada generando en algunas personas una necesidad y realidad alterada por la máquina. 
+
 
