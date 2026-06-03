@@ -1,5 +1,5 @@
 # sesion-10a
-# CLASE ONLINE :/
+
 
 # Charla: For want of (not) measuring
 
