@@ -18,8 +18,7 @@ Integrantes:
 ## Propuesta 01: Chirihue Mecanizado
 
 
-![Título módulo 1](./imagenes/titulo1oscilador1.gif)
-
+![*chirihue mecanizado*](./imagenes/titulo1oscilador1.gif)
 
 "Desembarcando en Riñihue
 
@@ -90,7 +89,7 @@ La señal producida por el CD40106 luego pasa por una segunda etapa formada por 
 
 _____________________________________________________________________
 
-## Propuesta 02: Comunicaciones espaciales
+![## Propuesta 02: Comunicaciones espaciales](./imagenes/titulo2oscilador2.gif)
 
 Espacio, miles de kilómetros de espacio,
 
